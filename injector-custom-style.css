@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #FFFFFF;
+}
+
+.usw-header {
+  text-align: center;
+  padding: 20px;
+  background-color: #003464;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.kb-injector {
+  background-color: #F2F4F8;
+  padding: 16px;
+  border-radius: 16px;
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.kb-header {
+  background-color: #FFFFFF;
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+  color: #191711;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+.kb-field-label {
+  color: #616161;
+  font-weight: 600;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.kb-field-required {
+  color: #D9534F;
+}
+
+.kb-field-input,
+.kb-field-select {
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  padding: 8px;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.kb-injector-footer {
+  background-color: #F2F4F8;
+  border-top: 1px solid #CCCCCC;
+  padding: 12px;
+  margin-top: 16px;
+  text-align: center;
+}
+
+.kb-attachment-icon {
+  color: #FFCE2C;
+  border: 2px solid #003464;
+  border-radius: 4px;
+  padding: 4px;
+  display: inline-block;
+  margin-right: 4px;
+}
